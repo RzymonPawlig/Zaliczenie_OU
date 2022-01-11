@@ -1,0 +1,3 @@
+C:/Users/pawli/CLionProjects/Zaliczenie OU/cmake-build-debug/CMakeFiles/Zaliczenie_OU.dir
+C:/Users/pawli/CLionProjects/Zaliczenie OU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pawli/CLionProjects/Zaliczenie OU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
